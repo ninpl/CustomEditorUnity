@@ -1,4 +1,4 @@
 # CustomEditorUnity
-Personalizacion del inspector de Unity
+Personalizacion del inspector de Unity :: Basico
 
 <p align="center"><img src="https://github.com/MoonAntonio/CustomEditorUnity/blob/master/res/customEditorPrev01.png?raw=true"><img src="https://github.com/MoonAntonio/CustomEditorUnity/blob/master/res/customEditorPrev02.png?raw=true"></p>
